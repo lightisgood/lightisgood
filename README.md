@@ -1,50 +1,31 @@
-```python
-class ReadMe:
-    def __init__(self, username="israelias", year=2020):
-        self.username = username
-        self.name = 'Joem Elias Sanez'
-        self.education = {
-            'programming': ['Full Stack Software Development', 'Code Institute'],
-            'architecture': ['Master of Architecture', 'Columbia University'],
-            'art': ['Bachelor of Fine Arts', 'Otis College of Art and Design']
-        }
-        self.employment = {
-            'developer': ['company', 'city'],
-            'architect': ['Foster + Partners', ['Singapore', 'New York']],
-            'designer': ['Herzog & de Meuron', ['New York', 'Basel']]
-        }
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
-    def doing(self, now=2020):
-        today = self.year
 
-        if now < today:
-            experience = self.employment['architect']
-            return """
-            I was a design architect with {large_firms} in {big_cities}.
-            """.format(large_firms=experience[0], big_cities=experience[1])
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Raghav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-        elif now = today:
-            dream = self.education['programming']
-            return """
-            I am currently learning {code} at {code_institute}.
-            """.format(code=dream[0], code_institute=dream[1])
+I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
 
-        elif now > today:
-            goal = self.employment['developer']
-            return """
-            I am eager to collaborate with {teams} on {projects}.
-            """.format(teams=goal[0], projects='software development')
-        else:
-            return """
-            ### Hi there 👋
-            """
-        
-    def collaborate(self, role, organization, location):
-        opportunity = self.employment
-        opportunity[role] = [organization, location]
+- 🔭 I’m currently working on taking rest  
+- 🌱 I’m currently learning about Data Structures , Unix System 
+- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+- 💬 Ask me about anything and everything 
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-me = ReadMe(2020)
-```
 
----
-⭐️ From [israelias](https://github.com/israelias)
+### Some Stats About lightisgood 
+<p align="center" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+
+<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
+
+
+⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
