@@ -1,31 +1,26 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+<h1 align="center">Hi 👋, I'm Or Ivgi</h1>
+<h3 align="center">I'm developer from Israel</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightisgood&label=Profile%20views&color=0e75b6&style=flat" alt="lightisgood" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightisgood" alt="lightisgood" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **python,javascript,html,php and css**
+
+- 👨‍💻 All of my projects are available at [https://github.com/lightisgood?tab=repositories](https://github.com/lightisgood?tab=repositories)
+
+- 💬 Ask me about **python**
+
+- ⚡ Fun fact **I think I am funny**
 
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm lightisgood <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightisgood&show_icons=true&locale=en&layout=compact" alt="lightisgood" /></p>
 
-- 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about Data Structures , Unix System 
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
-- 💬 Ask me about anything and everything 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightisgood&show_icons=true&locale=en" alt="lightisgood" /></p>
 
-
-### Some Stats About lightisgood 
-<p align="center" >
-<img alt="lightisgood's github stats" src="https://github-readme-stats.vercel.app/api?username=lightisgood-byte&show_icons=true&theme=merko"  > </p>
-
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-</p>
-
-
-⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightisgood&" alt="lightisgood" /></p>
