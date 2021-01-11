@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightisgood&show_icons=true&locale=en" alt="lightisgood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightisgood&" alt="lightisgood" /></p>
+<img src="https://camo.githubusercontent.com/f9daf813f78d3312fc0c390b8ffac5a4d67315100c11e7142543b74758a24bbc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4465727079363636267265706f3d6578616d706c652d626f742673686f775f6f776e65723d74727565267468656d653d6461726b" alt="Example-Bot" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=lightisgood&amp;repo=example-bot&amp;show_owner=true&amp;theme=dark" style="max-width:100%;">
